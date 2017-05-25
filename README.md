@@ -1,6 +1,10 @@
 # xy-inc-
 teste Zup
 Para inicializar os testes na aplicação deve-se seguir os seguintes passos.
+
+Testes automatizados no pacote RESOURCE classe LocalResourceTest
+Métodos do web service no pacote RESOURCE classe LocalResource
+
 1- Conexão com banco de dados : 
     ARQUIVO hibernate.properties dentro de src
     Banco de dados utilizado: Postgresql
