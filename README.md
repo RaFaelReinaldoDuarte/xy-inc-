@@ -1,5 +1,13 @@
-# xy-inc-
-teste Zup
+Teste desenvolvido por Rafael Reinaldo Duarte
+rafaelreinaldoduarte@gmail.com
+47 99738-9025
+
+tecnologia utilizada
+Linguagem: Java
+Banco de dados: Postgres
+Framework utilizado: Hibernate annotation
+Protocolo: REST/json
+
 Para inicializar os testes na aplicação deve-se seguir os seguintes passos.
 
 Testes automatizados no pacote RESOURCE classe LocalResourceTest
