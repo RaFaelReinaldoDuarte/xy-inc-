@@ -16,7 +16,7 @@ Floricultura Posicao X: 19 Posicao Y: 21
 Pub Posicao X: 12 Posicao Y: 8
 Supermercado Posicao X: 23 Posicao Y: 6
 Churrascaria Posicao X: 28 Posicao Y: 2
-******** CRIADO COM SUCESSO ********
+    ******** CRIADO COM SUCESSO ********
 
 3- Forma de testar a aplicação segue exemplos de requisição
 Método para: listar todos os locais
